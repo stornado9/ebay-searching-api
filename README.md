@@ -2,13 +2,13 @@
 
 ## This is a tiny project which use ebay SDK's finding API 'findItemsByProduct' to searching for an item with UPC and display the title and price.
 
-* implemented in modulars please see myEbayAPI.py
+#### implemented in modulars please see myEbayAPI.py
 		find_product(args.upc)
 		generate_record(itemlist)
 		draw_price_chart(df)
 		draw_product_table(record)
 
-* handled error for below please see commandline.png
+#### handled error for below please see commandline.png
 		connection error
         missing commandline argument error
         missing UPC argument error

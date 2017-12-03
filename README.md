@@ -13,7 +13,7 @@
         missing commandline argument error
         missing UPC argument error
 
-* result is displayed in table using pandas please see table.png
+* result is displayed in table using pandas please see commandline.png
 
 
 * price on range is displayed in chart using matplotlib please see price.png
@@ -21,25 +21,25 @@
 
 * Environment Setup
 
-..1. download ebay-python-sdk
+  - 1. download ebay-python-sdk
 
-..2. virtualenv my_ebay
+  - 2. virtualenv my_ebay
 
-..3. source my_ebay/bin/activate
+  - 3. source my_ebay/bin/activate
 
-..4. cd /ebaysdk-python-master
+  - 4. cd /ebaysdk-python-master
 
-..5. (my_ebay) $ python myEbayAPI.py 
+  - 5. (my_ebay) $ python myEbayAPI.py 
 
-..6. (my_ebay) $ pip install lxml
+  - 6. (my_ebay) $ pip install lxml
 
-..7. (my_ebay) $ pip install pandas
+  - 7. (my_ebay) $ pip install pandas
 
-..8. (my_ebay) $ sudo pip install matplotlib
+  - 8. (my_ebay) $ sudo pip install matplotlib
 
-..9. production URL - >svcs.ebay.com with App ID: …441b
+  - 9. production URL - >svcs.ebay.com with App ID: …441b
 
-..10. (my_ebay) $ python myEbayAPI.py
+  - 10. (my_ebay) $ python myEbayAPI.py
 
 
 

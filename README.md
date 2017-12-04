@@ -9,7 +9,7 @@
 		draw_product_table(record)
 
 #### _handled error for below please see commandline.png_
-	   connection error
+	    connection error
         missing commandline arg -upc error
         wrong UPC code error  [the sample working upc is "753759077600"]
 

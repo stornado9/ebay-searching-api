@@ -39,7 +39,7 @@
 
   - 9. production URL - >svcs.ebay.com with App ID: …441b
 
-  - 10. (my_ebay) $ python myEbayAPI.py
+  - 10. (my_ebay) $ python myEbayAPI.py -upc 753759077600
 
 
 
